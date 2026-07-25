@@ -1,4 +1,6 @@
 # 🔐 TCHADIN-CRYP - Suite de Cryptographie & Stéganographie
+<img width="1024" height="1024" alt="WhatsApp Image 2026-07-25 at 10 20 14" src="https://github.com/user-attachments/assets/54378f23-9be0-41ca-8252-2931df87e49b" />
+
 
 **Outils avancés pour cacher, chiffrer, hasher et protéger vos données**
 
